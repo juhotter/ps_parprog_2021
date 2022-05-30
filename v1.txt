@@ -1,0 +1,12 @@
+Es
+gibt
+zwei
+Methoden,
+Deltas
+zu
+bestimmen
+längste
+gemeinsame
+Teilfolge
+oder
+Suffix-Bäume
